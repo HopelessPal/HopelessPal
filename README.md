@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hopelesspal&label=Profile%20views&color=0e75b6&style=flat" alt="hopelesspal" /> </p>
 
-- 🔭 I’m currently working on **Food Ordering App**
+- 🔭 I’m currently working on **Food App**
 
 - 🌱 I’m currently learning **JavaScript,React Native and Figma**
 
 - 👯 I’m looking to collaborate on **various projects which would help me use my skills**
 
-- 💬 Ask me about **HTML,CSS,Cloud Computing,Space related topics**
+- 💬 Ask me about **HTML,CSS,Cloud Computing and mind boogling Space related topics**
 
-- 📫 How to reach me **rspal293@gmail.com**
+- 📫 Reach me at **rspal293@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fUDtOzD8LWPEYU9N88r26K-MT5MMCw4f/view?usp=sharing](https://drive.google.com/file/d/1fUDtOzD8LWPEYU9N88r26K-MT5MMCw4f/view?usp=sharing)
 
